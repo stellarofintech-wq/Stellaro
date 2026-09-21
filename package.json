@@ -35,8 +35,8 @@
     "@stellar/stellar-sdk": "^14.4.0",
     "soroban-client": "^1.0.1",
     "stellar-base": "^13.1.0",
-    "tsx": "^4.21.0",
-    "turbo": "^2.3.0"
+    "tsx": "^4.23.13",
+    "turbo": "^2.10.13"
   },
   "dependencies": {
     "react-is": "^19.2.1"
