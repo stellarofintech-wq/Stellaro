@@ -32,13 +32,13 @@
     "eliza:agent:chat": "elizaos chat -c tools/eliza/config.json"
   },
   "devDependencies": {
-    "@stellar/stellar-sdk": "^14.4.0",
+    "@stellar/stellar-sdk": "^17.1.0",
     "soroban-client": "^1.0.1",
     "stellar-base": "^13.1.0",
     "tsx": "^4.21.0",
     "turbo": "^2.3.0"
   },
   "dependencies": {
-    "react-is": "^19.2.1"
+    "react-is": "^19.3.0"
   }
 }
